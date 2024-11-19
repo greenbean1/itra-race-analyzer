@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.2
+Flask==3.0.0
+requests==2.31.0
+streamlit==1.28.0
+pandas==2.1.3
+plotly==5.18.0
+trafilatura==1.6.1
